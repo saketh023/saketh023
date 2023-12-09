@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saketh023
-- 👀 I’m interested in C++,Web Development, Computer Networking
-- 🌱 I’m currently learning C++, Javascript and backend
+- 👀 I’m a Java Developer 
+- 🌱 I’m working on growing and improving my skillset
 - 💞️ I’m looking to collaborate on any internships or projects from any domain
 - 📫 How to reach me email: v.saketh23@gmail.com; https://www.linkedin.com/in/saketh-v2
 
