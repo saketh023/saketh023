@@ -1,4 +1,4 @@
-🎓 CS Grad Student @StonyBrook | Ex-Software Engineer @FIS
+🎓 CS Grad Student @ Stony Brook University | Ex-Software Engineer @ FIS
 
 💻 Full Stack Developer passionate about building robust enterprise systems and exploring ML/AI applications
 
@@ -15,4 +15,4 @@
 
 🔍 Open to Summer 2025 Software Engineering Internship opportunities!
 
-📫 Let's connect: [Your LinkedIn]
+📫 Let's connect: https://linkedin.com/in/saketh-vadlamudi
