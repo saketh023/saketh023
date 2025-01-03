@@ -13,6 +13,6 @@
 - Machine Learning
 - Cloud Architecture
 
-🔍 Open to Summer 2025 Software Engineering Internship opportunities!
+🔍 Actively seeking Summer 2025 Software Engineering Internship opportunities!
 
 📫 Let's connect: https://linkedin.com/in/saketh-vadlamudi
