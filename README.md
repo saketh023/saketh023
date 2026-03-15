@@ -1,18 +1,21 @@
-🎓 CS Grad Student @ Stony Brook University | Prev. SWE @ FIS | Prev. SDE Intern @ NYC Children (NYC ACS) 
+🎓 MS CS @ Stony Brook University | 2+ Yrs SWE @ FIS | SDE Intern @ NYC ACS
 
- Full Stack Developer passionate about building robust enterprise systems and exploring ML/AI applications
+Software Engineer passionate about building distributed systems and 
+exploring the intersection of ML/AI with real-world applications.
 
- Tech Stack:
-- Backend: Java, Spring Boot, Python, Go
-- Frontend: React.js, Node.js, Angular
-- Databases: Oracle, MongoDB, MySQL
-- Tools: Docker, Kubernetes, Git, Jenkins, CI/CD
+💻 Tech Stack:
+- Backend:   Java, Spring Boot, Python, Go, Node.js
+- Frontend:  React.js, TypeScript, Angular
+- Messaging: Apache Kafka
+- Databases: PostgreSQL, Oracle, MongoDB, IBM Db2
+- Cloud:     AWS, Docker, Kubernetes
+- Tools:     Jenkins, CI/CD, Git, Redis
 
- Currently diving deep into:
-- Distributed Systems
-- Large Language Models, Gen AI
-- Cloud Architecture
+🔭 Currently building:
+- Distributed systems with RAFT consensus, Multi-Paxos, Two-Phase Commit
+- LLM-powered applications with RAG and LangChain
+- GPU-accelerated spatial data pipelines (CUDA, cuDF)
 
- Actively seeking new grad Software Engineering Full-time opportunities starting May 2026!
+🚀 Actively seeking full-time Software Engineering roles starting May 2026!
 
- Let's connect: https://linkedin.com/in/saketh-vadlamudi
+🔗 Let's connect: https://linkedin.com/in/saketh-vadlamudi
