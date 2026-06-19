@@ -1,4 +1,4 @@
-🎓 MS CS @ Stony Brook University | 2+ Yrs SWE @ FIS | SDE Intern @ NYC ACS
+🎓 MS CS @ Stony Brook University | 2.5+ Yrs SWE @ FIS | SDE Intern @ NYC ACS
 
 Software Engineer passionate about building distributed systems and 
 exploring the intersection of ML/AI with real-world applications.
@@ -16,6 +16,6 @@ exploring the intersection of ML/AI with real-world applications.
 - LLM-powered applications with RAG and LangChain
 - GPU-accelerated spatial data pipelines (CUDA, cuDF)
 
-🚀 Actively seeking full-time Software Engineering roles starting May 2026!
+🚀 Actively seeking full-time Software Engineering roles! Immediate joiner with active work authorization!
 
 🔗 Let's connect: https://linkedin.com/in/saketh-vadlamudi
